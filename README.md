@@ -1,6 +1,7 @@
 # ai-ml-internship-tasks
 
 ## Task 1: Exploring and Visualizing a Simple Dataset
+Seaborn iris dataset has been used in it.
 ### 🎯 Problem Statement
 The goal of this task is to explore a dataset, understand its structure, and visualize its patterns to gain insights into feature distributions and relationships.
 
